@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="pq3Lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../tmp/pq3Lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../tmp/pq3Lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../tmp/pq3Lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../tmp/pq3Lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
